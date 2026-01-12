@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxSubArraySum/MaxSubArraySum.iml" filepath="$PROJECT_DIR$/MaxSubArraySum/MaxSubArraySum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree Structure/Tree Structure.iml" filepath="$PROJECT_DIR$/Tree Structure/Tree Structure.iml" />
+    </modules>
+  </component>
+</project>
